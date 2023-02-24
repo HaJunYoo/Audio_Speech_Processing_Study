@@ -2,6 +2,7 @@
 *.csv
 # data folder
 data
+documents
 
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,jupyternotebooks
